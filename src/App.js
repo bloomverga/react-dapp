@@ -6,8 +6,8 @@ import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json'
 import BVGToken from './artifacts/contracts/BVGToken.sol/BVGToken.json'
 
 // The contract address
-const greeterAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3"
-const bvgTokenAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+const greeterAddress = "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+const bvgTokenAddress = "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
 
 function App() {
   // store greeting in local state
